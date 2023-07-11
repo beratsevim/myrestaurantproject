@@ -1,1 +1,1 @@
-https://beratsvm160.github.io/myrestaurantproject/
+https://beratsevim.github.io/myrestaurantproject/
